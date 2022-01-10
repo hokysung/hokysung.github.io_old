@@ -18,9 +18,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Evolution of Mind Science     # the main title
+title: A Theory of Worldviews   # the main title
 
-tagline: To the Best of My Knowledge # it will display as the sub-title
+tagline: By Hokyung Sung        # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A place for random thoughts on worldviews.
