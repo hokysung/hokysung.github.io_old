@@ -18,14 +18,12 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: To the Best of My Knowledge        # the main title
+title: The Evolution of Mind Science     # the main title
 
-tagline: Hokyung Sung's Personal Website  # it will display as the sub-title
+tagline: To the Best of My Knowledge # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A place for random thoughts on worldviews.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hokysung.github.io'
