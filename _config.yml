@@ -20,7 +20,7 @@ timezone: America/Los_Angeles
 
 title: Naturalizing Worldviews   # the main title
 
-tagline: By Hokyung Sung        # it will display as the sub-title
+tagline: by Hokyung Sung        # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A place for random thoughts on worldviews.
