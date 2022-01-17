@@ -2,7 +2,7 @@
 title: For those visiting the blog for the first time
 date: 2022-01-16 10:MM:SS +/-TTTT
 categories: [A Theory of Worldviews, Preliminaries]
-tags: [preliminaries, integrity, generative model, communitarianism, ml]
+tags: [preliminaries, integrity, theses, generative model, communitarianism, ml]
 ---
 
 ### What is the goal of this blog?
@@ -10,7 +10,50 @@ tags: [preliminaries, integrity, generative model, communitarianism, ml]
 To push the vector of human collective will towards learning.
 
 ### Why should one care to read this at all?
-I really cannot answer this for you. But I am quite certain that you will learn at least one thing from reading this blog. Even if you already had thought of and agreed to everything written here, you will now also know that someone with my background thinks similarly to you (unless you were referred to this blog somehow and already know what I had to say). Granted, this blog probably contains completely incorrect statements, facts that may be refuted in 5, 50, 500 -- or whatever years. But this blog is less about the particular facts. It is about a hypothesis surrounding how some important facts relate to each other via the medium of "worldviews." It also contains a hypothesis about why we're here. I think my first hypothesis is *true* in the firmest sense, and my second hypothesis, *quite plausible*. From here stems my desire and my hope to convince you of these ideas. If you are curious, please read ahead.
+I really cannot answer this for you. But I am quite certain that you will learn at least one thing from reading this blog. Even if you already had thought of and agreed to everything written here, you will now also know that someone with my background thinks similarly to you (unless you were referred to this blog somehow and already know what I had to say). Granted, this blog probably contains completely incorrect statements, facts that may be refuted in 5, 50, 500 -- or whatever years. But this blog is less about the particular facts. It is a theory surrounding how some important facts relate to each other via the medium of "worldviews." It also contains a hypothesis about why we're here. I think my first hypothesis is *true* in the firmest sense, and my second hypothesis, *quite plausible*. From here stems my desire and my hope to convince you of these ideas. If you are curious, please read ahead.
+
+### Propositions I wish to defend (To be updated)
+Here is an unstructured list of propositions that I would like to defend through my posts. They are, of course, subject to major revisions. *Some day I should really find time to organize them in a more systematic fashion.*
+
+1. The only questions that have ramifications at all is what the True, the Good, and the Beautiful is.
+
+2. The mind is naturalizable, i.e. explicable in natural, non-mysterious terms. In particular, the mind is best understood as a function of experience (the model is a function of data).
+
+3. The biggest bottleneck in making progress has either been the lack of information or the lack of proper propagation of information.
+
+4. Learning is good, no matter what.
+
+5. I can only do, at best, to the best of my knowledge.
+
+6. The Beautiful and the Good is reducible to the True.
+	Beauty lies between the conventional and the obscene.
+	To will oneself free is to will others free.
+
+7. Reinforcing negative value judgements -- whether aesthetic or moral -- are active suppressors of learning. Negative value judgements only aid learning when applied to oneself.
+
+8. Consciousness is about three things: the input, the state, and the action. These correspond to questions of Beauty, Truth, and Good, in that order.
+
+9. The cognitive pathway to learning is the act of asking the "why" question. There are two types of why questions: first, why are things the way they are? second, why am I doing this?
+
+10. What elevates humans, and allows for the search of authenticity, is the primacy of the urge to learn.
+
+11. The closest humankind can get to utopia is through a communitarianism of truth.
+
+12. Love is the first will towards Truth.
+
+13. Truth requires generalizability-abstractedness and precision-correctness.
+
+14. Decisions are strictly better when made with more information.
+	Decisions on what values we must strive for are no exception.
+
+15. Truth is invariant. Our sampling of spacetime is biased.
+
+16. Three components characterize intelligence: the discriminator, the generator and the actor.
+
+17. Abstraction is the essence of the generator's function. It attempts to carve nature at its joints (Plato). It is at the core of what science should be.
+
+18. A single worldview can coherently defend all propositions above.
+
 
 #### Disclaimer
 One of the central tenets to appear in this blog is that *no single human* can understand everything. The set of information that a person may have access to over one's life is ineffably miniscule compared to the vast space of all possible knowledges. Crucially, this limitation applies to me as equally as to others. This means that although what is written here is earnestly my best attempt to gather the things I know into a coherent but understandable worldview, there may be (and will be) countless mistakes, misattributions, misrepresentations, and falsehoods about some facts of the world and people's views on them. I hope that this does not immediately extinguish your trust in reading this text.
