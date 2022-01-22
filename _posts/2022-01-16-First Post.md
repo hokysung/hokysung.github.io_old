@@ -1,9 +1,12 @@
 ---
 title: For those visiting the blog for the first time
 date: 2022-01-16 10:MM:SS +/-TTTT
-categories: [A Theory of Worldviews, Preliminaries]
+categories: [Man is a Learning Animal, Preliminaries]
 tags: [preliminaries, integrity, theses, generative model, communitarianism, ml]
 ---
+
+## **Man is a learning animal**
+
 
 ### What is the goal of this blog?
 
@@ -24,9 +27,9 @@ Here is an unordered list of propositions that I would like to defend through my
 
 3. The biggest bottleneck in making progress has either been the lack of information or the lack of proper propagation of information.
 
-4. Learning is good, no matter what.
+4. Learning is good, no matter what. Hence, if it has not been said before elsewhere, "man is by nature a learning animal."
 
-5. I can only do, at best, to the best of what I know.
+5. One can only do, at best, to the best of what one knows.
 
 6. What elevates humans, and allows for the search of authenticity, is the primacy of the urge to learn -- the quest for Truth. Markedly human pursuits of Beauty and Good are reducible to the Truth.
 
@@ -54,23 +57,25 @@ Here is an unordered list of propositions that I would like to defend through my
 
 18. Spacetime exists, and is deterministic. (Probably. Will have to learn more about this.) But determinism is the necessary condition for there to be free will in the correct sense.
 
-19. A belief that is robust to a more diverse set of people, with a more diverse set of experiences, is closer to the truth. Social cognition is not only a means to get along with others, but also a crucial method to learn better about the world, by taking into account the perspective of others.
+19. Reductionism is false. Allowing us to realize this important limitation of reductionism (and the naive empiricist/positivist view that accompanies it) is perhaps a valid contribution of complex systems-based scientific theories. But explanatory reduction is different from the reductionist attitude, and is in fact central to what science is. 
 
-20. A single human individual is fundamentally constrained in the capacity to understand the universe. But at the same time, there is nothing that in principle limits humans from learning the truth. Every human being, in one way or another, acts to the best of their knowledge.
+20. A belief that is robust to a more diverse set of people, with a more diverse set of experiences, is closer to the truth. Social cognition is not only a means to get along with others, but also a crucial method to learn better about the world, by taking into account the perspective of others.
 
-21. External conditions that threaten the continuity or stability of the organism constrain the desire for truth, and push it towards the pursuit of beauty and good in the visceral sense.
+21. A single human individual is fundamentally constrained in the capacity to understand the universe. But at the same time, there is nothing that in principle limits humans from learning the truth. Every human being, in one way or another, acts to the best of their knowledge.
 
-22. At least in the current regime of humans, their genes and their experiences, the variance among the data provided to the input causally explain the variance within models much better than the variance in genetic predispositions. This holds for any kind of variance within models, especially intelligence. Only after we have attained a reasonable amount of egalitarianism in the diversity of experiences and stability of conditions, will we be able to properly start asking questions of innateness. Before then, resorting to a person's "innate disposition" in explaining human behavior is nothing but a cowardly escape from the truth.
+22. External conditions that threaten the continuity or stability of the organism constrain the desire for truth, and push it towards the pursuit of beauty and good in the visceral sense.
 
-23. The primacy among the True, the Good, and the Beautiful is the ultimate question of human existence, and what humanity comes to agree upon will characterize the convergent state of human societies.
+23. At least in the current regime of humans, their genes and their experiences, the variance among the data provided to the input causally explain the variance within models much better than the variance in genetic predispositions. This holds for any kind of variance within models, especially intelligence. Only after we have attained a reasonable amount of egalitarianism in the diversity of experiences and stability of conditions, will we be able to properly start asking questions of innateness. Before then, resorting to a person's "innate disposition" in explaining human behavior is nothing but a cowardly escape from the truth.
 
-24. The closest humankind can get towards utopia is through a communitarianism of truth. A communist economic structure provides the necessary conditions toward such a society.
+24. The primacy among the True, the Good, and the Beautiful is the ultimate question of human existence, and what humanity comes to agree upon will characterize the convergent state of human societies.
 
-25. A single worldview can coherently defend all propositions above. Moreover, they must be defended altogether, at once.
+25. The closest humankind can get towards utopia is through a communitarianism of truth. A communist economic structure provides the necessary conditions toward such a society.
 
-26. Authenticity in belief leads to authenticity in action, that which can also be described as "self-discipline".
+26. A single worldview can coherently defend all propositions above. Moreover, they must be defended altogether, at once.
 
-27. This worldview naturally gives birth to a will to reaffirm this worldview -- the goal of creating a world in which everyone learns more.
+27. Authenticity in belief leads to authenticity in action, that which can also be described as "self-discipline".
+
+28. This worldview naturally gives birth to a will to reaffirm this worldview -- the goal of creating a world in which everyone learns more.
 
 I will soon update with a list of unresolved questions, or other claims I would like to make but are wary to do so for various reasons at the moments. Along with the statements above, I welcome input and feedback on these statements as well.
 
