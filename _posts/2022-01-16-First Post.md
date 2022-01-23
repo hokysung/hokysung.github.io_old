@@ -65,7 +65,7 @@ Here is an unordered list of propositions that I would like to defend through my
 
 22. External conditions that threaten the continuity or stability of the organism constrain the desire for truth, and push it towards the pursuit of beauty and good in the visceral sense.
 
-23. At least in the current regime of humans, their genes and their experiences, the variance among the data provided to the input causally explain the variance within models much better than the variance in genetic predispositions. This holds for any kind of variance within models, especially intelligence. Only after we have attained a reasonable amount of egalitarianism in the diversity of experiences and stability of conditions, will we be able to properly start asking questions of innateness. Before then, resorting to a person's "innate disposition" in explaining human behavior is nothing but a cowardly escape from the truth.
+23. At least in the current regime of human conditions, their genes and their experiences, the variance among input data causally explain a much larger portion of individual-to-individual variability than the variance among genetic predispositions. This holds for any kind of variance within models, especially intelligence. Only after we have attained a reasonable amount of egalitarianism in the diversity of experiences and stability of conditions, will we be able to properly start asking questions of innateness. Before then, resorting to a person's "innate disposition" in explaining human behavior is nothing but a cowardly escape from the truth.
 
 24. The primacy among the True, the Good, and the Beautiful is the ultimate question of human existence, and what humanity comes to agree upon will characterize the convergent state of human societies.
 
