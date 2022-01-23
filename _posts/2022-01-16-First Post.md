@@ -1,11 +1,11 @@
 ---
 title: For those visiting the blog for the first time
 date: 2022-01-16 10:MM:SS +/-TTTT
-categories: [Man is a Learning Animal, Preliminaries]
+categories: [man is a learning animal, Preliminaries]
 tags: [preliminaries, integrity, theses, generative model, communitarianism, ml]
 ---
 
-## **Man is a learning animal**
+## **man is a learning animal**
 
 
 ### What is the goal of this blog?
