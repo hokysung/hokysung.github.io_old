@@ -5,7 +5,7 @@ categories: [man is a learning animal, Preliminaries]
 tags: [preliminaries, integrity, theses, generative model, communitarianism, ml]
 ---
 
-## **man is a learning animal**
+# **Man is a learning animal**
 
 
 ### What is the goal of this blog?
