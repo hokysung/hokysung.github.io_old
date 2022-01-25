@@ -57,25 +57,28 @@ Here is an unordered list of propositions that I would like to defend through my
 
 18. Spacetime exists, and is deterministic. (Probably. Will have to learn more about this.) But determinism is the necessary condition for there to be free will in the correct sense.
 
-19. Reductionism is false. Allowing us to realize this important limitation of reductionism (and the naive empiricist/positivist view that accompanies it) is perhaps a valid contribution of complex systems-based scientific theories. But explanatory reduction is different from the reductionist attitude, and is in fact central to what science is. 
+19. Reductionism is false. Allowing us to realize this important limitation of reductionism (and the naive empiricist/positivist view that accompanies it) is perhaps a valid contribution of complex systems-based scientific theories. But explanatory reduction is different from the reductionist attitude, and is in fact central to what science is. To be pragmatically optimistic, we must be in a constant search for better explanations -- explanatory reductions.
 
-20. A belief that is robust to a more diverse set of people, with a more diverse set of experiences, is closer to the truth. Social cognition is not only a means to get along with others, but also a crucial method to learn better about the world, by taking into account the perspective of others.
+20. Pragmatic empiricism is an attitude that not only affirms the need and desire to asking and trying to answer certain questions, it also sets boundaries on why some factual questions are not worth pursuing -- why some questions are of no or little scientific value. Usually this criteria involves the pragmatic set of options that lie before us.
 
-21. A single human individual is fundamentally constrained in the capacity to understand the universe. But at the same time, there is nothing that in principle limits humans from learning the truth. Every human being, in one way or another, acts to the best of their knowledge.
+21. A belief that is robust to a more diverse set of people, with a more diverse set of experiences, is closer to the truth. Social cognition is not only a means to get along with others, but also a crucial method to learn better about the world, by taking into account the perspective of others.
 
-22. External conditions that threaten the continuity or stability of the organism constrain the desire for truth, and push it towards the pursuit of beauty and good in the visceral sense.
+22. A single human individual is fundamentally constrained in the capacity to understand the universe. But at the same time, there is nothing that in principle limits humans from learning the truth. Every human being, in one way or another, acts to the best of their knowledge.
 
-23. At least in the current regime of human conditions, their genes and their experiences, the variance among input data causally explain a much larger portion of individual-to-individual variability than the variance among genetic predispositions. This holds for any kind of variance within models, especially intelligence. Only after we have attained a reasonable amount of egalitarianism in the diversity of experiences and stability of conditions, will we be able to properly start asking questions of innateness. Before then, resorting to a person's "innate disposition" in explaining human behavior is nothing but a cowardly escape from the truth.
+23. External conditions that threaten the continuity or stability of the organism constrain the desire for truth, and push it towards the pursuit of beauty and good in the visceral sense.
 
-24. The primacy among the True, the Good, and the Beautiful is the ultimate question of human existence, and what humanity comes to agree upon will characterize the convergent state of human societies.
+24. At least in the current regime of human conditions, their genes and their experiences, the variance among input data causally explain a much larger portion of individual-to-individual variability than the variance among genetic predispositions. This holds for any variable attribute within models, especially intelligence. Only after we have attained a reasonable amount of egalitarianism in the diversity of experiences and stability of conditions, will we be able to properly start asking questions of innateness. Before then, resorting to a person's "innate disposition" in explaining human behavior is nothing but a cowardly escape from the truth.
 
-25. The closest humankind can get towards utopia is through a communitarianism of truth. A communist economic structure provides the necessary conditions toward such a society.
+25. The primacy among the True, the Good, and the Beautiful is the ultimate question of human existence, and what humanity comes to agree upon will characterize the convergent state of human societies.
 
-26. A single worldview can coherently defend all propositions above. Moreover, they must be defended altogether, at once.
+26. The closest humankind can get towards utopia is through a communitarianism of truth. A communist economic structure provides the necessary conditions toward such a society.
 
-27. Authenticity in belief leads to authenticity in action, that which can also be described as "self-discipline".
+27. A single worldview can coherently defend all propositions above. Moreover, they must be defended altogether, at once.
 
-28. This worldview naturally gives birth to a will to reaffirm this worldview -- the goal of creating a world in which everyone learns more.
+28. Authenticity in belief leads to authenticity in action, that which can also be described as "self-discipline".
+
+29. This worldview naturally gives birth to a will to reaffirm this worldview -- the goal of creating a world in which everyone seeks to understand better.
+
 
 I will soon update with a list of unresolved questions, or other claims I would like to make but are wary to do so for various reasons at the moments. Along with the statements above, I welcome input and feedback on these statements as well.
 
