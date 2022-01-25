@@ -5,7 +5,7 @@ categories: [man is a learning animal, Preliminaries]
 tags: [preliminaries, integrity, theses, generative model, communitarianism, ml]
 ---
 
-# **Man is a learning animal**
+# **"Man is a learning animal."**
 
 
 ### What is the goal of this blog?
@@ -78,6 +78,7 @@ Here is an unordered list of propositions that I would like to defend through my
 28. Authenticity in belief leads to authenticity in action, that which can also be described as "self-discipline".
 
 29. This worldview naturally gives birth to a will to reaffirm this worldview -- the goal of creating a world in which everyone seeks to understand better.
+
 
 
 I will soon update with a list of unresolved questions, or other claims I would like to make but are wary to do so for various reasons at the moments. Along with the statements above, I welcome input and feedback on these statements as well.
