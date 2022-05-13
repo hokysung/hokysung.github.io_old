@@ -15,7 +15,7 @@ And frankly, to convince you that your goal should also be the same as mine.
 
 ### Why should one care to read this at all?
 I really cannot answer this for you. But I am quite certain that you will learn at least one thing from reading this blog. Even if you already had thought of and agreed to everything written here, you will now also know that someone with my background thinks similarly to you (unless you were referred to this blog somehow and already know what I had to say). Granted, this blog probably contains completely incorrect statements, facts that may be refuted in 5, 50, 500 -- or whatever years. But this blog is less about the particular facts. It is about a theory surrounding how some important facts relate to each other via the medium of "worldviews." It also contains a hypothesis about why we're here. I think my theory is *true*, and my hypothesis, *quite plausible*. From this metacognitive belief stems my desire and hope to convince you of these ideas. If this makes you curious at all, great -- you've found a reason to read ahead!
-
+ 
 ### Propositions I wish to defend
 Here is an unordered list of propositions that I would like to defend through my posts. I know that some of these may pique your immediate interest, while some others might sound way too vague and irrelevant to you. This list is, of course, far from perfect or complete, and *always subject to revisions*. A secondary purpose of this blog is in fact to finetune these propositions to be more precise and revealing. *(Some day I should really find time to organize these in a more structured fashion.)*
 

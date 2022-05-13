@@ -24,10 +24,12 @@ really, to go back all the way, there are axioms that ANYBODY will agree to,
 "generality is good?"
 
 3. the problem of pessimism
+an antidote to academic pessimism -> practical empiricism
 
 4. the problem of negativity
 can learning always feel good? Do we need negative experiences to learn?
 
+5. the problem of non-human will
 
 man is first and foremost a learning animal
 not a political animal
